@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444301286071",
+    "project_id": "rockethelp-57e91",
+    "storage_bucket": "rockethelp-57e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444301286071:android:94bf0c575e43ea29ae0b32",
+        "android_client_info": {
+          "package_name": "com.deusdeditvilar.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444301286071-imhjjgijqk3sd9qcflevb2f8b20r374h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbL8K13JYuzSaNIV3CqvqTMMw4FVeAkzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444301286071-imhjjgijqk3sd9qcflevb2f8b20r374h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444301286071-gbcu9v1n3bhk8bvej5h5cggom344e7qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deusdeditvilar.rockethelp",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
